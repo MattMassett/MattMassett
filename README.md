@@ -16,8 +16,8 @@ Welcome to my GitHub! I'm a Senior Machine Learning Scientist (AI Innovation) at
 - **Languages**: Python, R
 - **Techniques**: Deep Learning, Statistics, Exploratory Data Analysis
 - **Domains**: Cancer Epigenetics, Antibody Engineering, Bioinformatics
-- **Certifications**: Deep Learning, Statistical Modeling, Data Manipulation (over 150+ certifications)
-  https://www.linkedin.com/in/matthew-massett-data-scientist/
+- **Certifications**: Deep Learning, Statistical Modeling, Data Manipulation ([over 150+ certifications](https://www.linkedin.com/in/matthew-massett-data-scientist/))
+  
 
 ## 📝 Publications
 
