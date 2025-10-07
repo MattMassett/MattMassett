@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Matthew Massett – Senior Machine Learning Scientist @ Sanofi
+# 👋 Hi, I'm Matthew Massett – Principal Machine Learning Scientist @ Sanofi
 
-Welcome to my GitHub! I'm a Senior Machine Learning Scientist (AI Innovation) at **Sanofi**, where I lead the development of **novel protein language models** to revolutionize **antibody discovery** and accelerate therapeutic innovation.
+Welcome to my GitHub! I'm a Principal Machine Learning Scientist (AI Innovation) at **Sanofi**, where I lead the development of **novel protein language models** to revolutionize **antibody discovery** and accelerate therapeutic innovation.
 
 ## 🔬 About Me
 
